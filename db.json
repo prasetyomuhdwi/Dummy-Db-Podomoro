@@ -1,0 +1,10 @@
+{
+  "podomoro": [
+    "user1": {
+      "id": 1,
+      "podomoro": 25,
+      "short":5,
+      "long": 30,
+    },
+  ],
+}
