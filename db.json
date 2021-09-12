@@ -1,6 +1,7 @@
 {
-  "podomoro": [
-    "user1": {
+  [
+    {
+      "userId": 1,
       "id": 1,
       "podomoro": 25,
       "short":5,
